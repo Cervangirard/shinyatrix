@@ -1,0 +1,6 @@
+#canvas{
+  background-color:#000; 
+  display:block;
+  margin:auto;
+  z-index: -1
+}

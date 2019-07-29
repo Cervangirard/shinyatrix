@@ -1,0 +1,14 @@
+Package: shiymatrix
+Title: Matrix
+Version: 0.0.0.9000
+Authors@R: person('Cervan', 'Girard', email = 'cervan.girard@gmail.com', role = c('cre', 'aut'))
+Description: Choose your pill.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    shiny, 
+    golem
+Remotes: 
+    Thinkr-open/golem
+RoxygenNote: 6.1.1
